@@ -18,12 +18,5 @@ Native Android app for tracking B.Tech Sem 5 A attendance from the uploaded IILM
 - Share one subject, added subjects, or the full timetable through Android share sheet.
 - Import shared subjects from pasted text, clipboard, or Android's text share intent.
 
-## Open in Android Studio
-
-1. Open Android Studio.
-2. Choose `Open`.
-3. Select the `IILMAttendance` folder.
-4. Let Android Studio sync Gradle and install Android SDK 35 if prompted.
-5. Run the `app` configuration on an emulator or phone.
 
 This project uses only standard Android SDK APIs, Java, and `SharedPreferences`.
